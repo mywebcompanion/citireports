@@ -1,0 +1,590 @@
+2016-01-04T12:16:08.479Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:18:34.583Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:19:06.887Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:19:25.756Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T13:29:12.599Z - error: uncaughtException: listen EADDRINUSE :::3000 date=Mon Jan 04 2016 21:29:12 GMT+0800 (Malay Peninsula Standard Time), pid=13588, uid=null, gid=null, cwd=D:\JSReports, execPath=C:\Program Files\nodejs\node.exe, version=v4.0.0, argv=[C:\Program Files\nodejs\node.exe, D:\JSReports\server], rss=107212800, heapTotal=92777984, heapUsed=65451896, loadavg=[0, 0, 0], uptime=265294.1629162, trace=[column=11, file=util.js, function=Object.exports._errnoException, line=837, method=exports._errnoException, native=false, column=20, file=util.js, function=exports._exceptionWithHostPort, line=860, method=_exceptionWithHostPort, native=false, column=14, file=net.js, function=Server._listen2, line=1231, method=_listen2, native=false, column=10, file=net.js, function=listen, line=1267, method=null, native=false, column=5, file=net.js, function=Server.listen, line=1363, method=listen, native=false, column=24, file=D:\JSReports\node_modules\express\lib\application.js, function=EventEmitter.listen, line=617, method=listen, native=false, column=9, file=D:\JSReports\server.js, function=null, line=19, method=null, native=false, column=54, file=D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js, function=_fulfilled, line=794, method=null, native=false, column=30, file=D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js, function=self.promiseDispatch.done, line=823, method=promiseDispatch.done, native=false, column=13, file=D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js, function=Promise.promise.promiseDispatch, line=756, method=promise.promiseDispatch, native=false, column=44, file=D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js, function=null, line=564, method=null, native=false, column=17, file=D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js, function=flush, line=110, method=null, native=false, column=9, file=node.js, function=doNTCallback0, line=407, method=null, native=false, column=13, file=node.js, function=process._tickDomainCallback, line=377, method=_tickDomainCallback, native=false], stack=[Error: listen EADDRINUSE :::3000,     at Object.exports._errnoException (util.js:837:11),     at exports._exceptionWithHostPort (util.js:860:20),     at Server._listen2 (net.js:1231:14),     at listen (net.js:1267:10),     at Server.listen (net.js:1363:5),     at EventEmitter.listen (D:\JSReports\node_modules\express\lib\application.js:617:24),     at D:\JSReports\server.js:19:9,     at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js:794:54),     at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js:823:30),     at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js:756:13),     at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js:564:44,     at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\q\q.js:110:17),     at doNTCallback0 (node.js:407:9),     at process._tickDomainCallback (node.js:377:13)]
+2016-01-04T17:22:32.148Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:22:32.152Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:34:33.300Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:34:33.336Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:30.677Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:30.681Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:55.819Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:55.823Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:45:25.585Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:45:25.587Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:48:13.300Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:48:13.333Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T18:13:36.068Z - error: Failed to load collection templates message=Can't insert key msvl9jG1kvCeYKWR, it violates the unique constraint, key=msvl9jG1kvCeYKWR, errorType=uniqueViolated
+2016-01-04T18:13:36.070Z - error: Error occured during reporter init undefined
+2016-01-04T18:13:36.070Z - error: Error occured during reporter init undefined
+2016-01-04T18:17:18.071Z - error: Failed to load collection templates Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+2016-01-04T18:17:18.077Z - error: Error occured during reporter init Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:18.079Z - error: Error occured during reporter init Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:57.334Z - error: Failed to load collection templates Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+2016-01-04T18:17:57.337Z - error: Error occured during reporter init Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:57.338Z - error: Error occured during reporter init Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:19:14.140Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T18:19:14.166Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T18:20:02.664Z - error: Error when processing render request Error during rendering report: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID' Error: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:20:02.665Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID' Error: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:32:49.696Z - error: Error when processing render request Error during rendering report: view.hlp(...) is not a function Error: view.hlp(...) is not a function
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:32:49.697Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: view.hlp(...) is not a function Error: view.hlp(...) is not a function
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)

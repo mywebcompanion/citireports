@@ -1,0 +1,1187 @@
+2016-01-04T11:29:01.689Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T11:29:02.224Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T11:29:09.183Z - info: Found 29 extensions
+2016-01-04T11:29:09.297Z - info: Using extension test
+2016-01-04T11:29:09.323Z - info: Using extension client-html
+2016-01-04T11:29:09.541Z - info: Using extension embedded-store
+2016-01-04T11:29:09.548Z - info: Using extension xlsx
+2016-01-04T11:29:11.132Z - info: Using extension express
+2016-01-04T11:29:11.798Z - info: Using extension fop-pdf
+2016-01-04T11:29:12.095Z - info: Using extension handlebars
+2016-01-04T11:29:12.110Z - info: Using extension authentication
+2016-01-04T11:29:12.400Z - info: Using extension jsrender
+2016-01-04T11:29:12.414Z - info: Using extension templates
+2016-01-04T11:29:12.522Z - info: Using extension analytics
+2016-01-04T11:29:13.486Z - info: Using extension fs-store
+2016-01-04T11:29:15.319Z - info: Using extension data
+2016-01-04T11:29:15.392Z - info: Using extension html-to-xlsx
+2016-01-04T11:29:16.009Z - info: Using extension authorization
+2016-01-04T11:29:16.063Z - info: Using extension child-templates
+2016-01-04T11:29:16.127Z - info: Using extension licensing
+2016-01-04T11:29:16.323Z - info: Using extension phantom-pdf
+2016-01-04T11:29:16.647Z - info: Using extension text
+2016-01-04T11:29:16.655Z - info: Using extension reports
+2016-01-04T11:29:16.707Z - info: Using extension resources
+2016-01-04T11:29:16.787Z - info: Using extension client-app
+2016-01-04T11:29:16.835Z - info: Using extension images
+2016-01-04T11:29:16.946Z - info: Using extension scheduling
+2016-01-04T11:29:17.372Z - info: Using extension scripts
+2016-01-04T11:29:17.448Z - info: Using extension statistics
+2016-01-04T11:29:17.457Z - info: Using extension sample-template
+2016-01-04T11:29:17.464Z - info: Using extension public-templates
+2016-01-04T11:29:17.549Z - info: Using extension embedding
+2016-01-04T11:29:17.742Z - info: Extensions loaded.
+2016-01-04T11:29:17.754Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T11:29:18.267Z - info: Configuring routes for existing express app.
+2016-01-04T11:29:19.113Z - info: jsreport server successfully started on https port: 443
+2016-01-04T11:29:19.116Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T11:29:19.148Z - warn: License not found, using free
+2016-01-04T11:29:19.340Z - info: reporter initialized
+2016-01-04T11:30:25.551Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T11:30:26.519Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T11:30:33.743Z - info: Found 29 extensions
+2016-01-04T11:30:33.858Z - info: Using extension test
+2016-01-04T11:30:33.878Z - info: Using extension client-html
+2016-01-04T11:30:34.096Z - info: Using extension embedded-store
+2016-01-04T11:30:34.104Z - info: Using extension xlsx
+2016-01-04T11:30:35.621Z - info: Using extension express
+2016-01-04T11:30:36.364Z - info: Using extension fop-pdf
+2016-01-04T11:30:36.587Z - info: Using extension handlebars
+2016-01-04T11:30:36.600Z - info: Using extension authentication
+2016-01-04T11:30:36.943Z - info: Using extension jsrender
+2016-01-04T11:30:36.955Z - info: Using extension templates
+2016-01-04T11:30:37.083Z - info: Using extension analytics
+2016-01-04T11:30:37.690Z - info: Using extension fs-store
+2016-01-04T11:30:39.674Z - info: Using extension data
+2016-01-04T11:30:39.773Z - info: Using extension html-to-xlsx
+2016-01-04T11:30:40.326Z - info: Using extension authorization
+2016-01-04T11:30:40.372Z - info: Using extension child-templates
+2016-01-04T11:30:40.452Z - info: Using extension licensing
+2016-01-04T11:30:40.643Z - info: Using extension phantom-pdf
+2016-01-04T11:30:40.973Z - info: Using extension text
+2016-01-04T11:30:40.983Z - info: Using extension reports
+2016-01-04T11:30:41.056Z - info: Using extension resources
+2016-01-04T11:30:41.147Z - info: Using extension client-app
+2016-01-04T11:30:41.188Z - info: Using extension images
+2016-01-04T11:30:41.289Z - info: Using extension scheduling
+2016-01-04T11:30:41.676Z - info: Using extension scripts
+2016-01-04T11:30:41.759Z - info: Using extension statistics
+2016-01-04T11:30:41.767Z - info: Using extension sample-template
+2016-01-04T11:30:41.800Z - info: Using extension public-templates
+2016-01-04T11:30:41.925Z - info: Using extension embedding
+2016-01-04T11:30:42.134Z - info: Extensions loaded.
+2016-01-04T11:30:42.144Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T11:30:42.565Z - info: Configuring routes for existing express app.
+2016-01-04T11:30:43.324Z - info: jsreport server successfully started on https port: 443
+2016-01-04T11:30:43.329Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T11:30:43.356Z - warn: License not found, using free
+2016-01-04T11:30:43.526Z - info: reporter initialized
+2016-01-04T12:16:08.477Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:18:34.583Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:19:06.886Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T12:19:25.756Z - error: Error during processing request: http://localhost:3000/reporting details: Unexpected token ' SyntaxError: Unexpected token '
+    at parse (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:262:16)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\body-parser\node_modules\raw-body\index.js:308:7)
+    at emitNone (events.js:67:13)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickDomainCallback (node.js:384:17)
+2016-01-04T13:29:01.971Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T13:29:02.648Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T13:29:04.718Z - info: Found 29 extensions
+2016-01-04T13:29:04.794Z - info: Using extension test
+2016-01-04T13:29:04.806Z - info: Using extension client-html
+2016-01-04T13:29:04.960Z - info: Using extension embedded-store
+2016-01-04T13:29:04.964Z - info: Using extension xlsx
+2016-01-04T13:29:06.202Z - info: Using extension express
+2016-01-04T13:29:06.769Z - info: Using extension fop-pdf
+2016-01-04T13:29:06.943Z - info: Using extension handlebars
+2016-01-04T13:29:06.951Z - info: Using extension authentication
+2016-01-04T13:29:07.188Z - info: Using extension jsrender
+2016-01-04T13:29:07.196Z - info: Using extension templates
+2016-01-04T13:29:07.275Z - info: Using extension analytics
+2016-01-04T13:29:08.152Z - info: Using extension fs-store
+2016-01-04T13:29:09.909Z - info: Using extension data
+2016-01-04T13:29:09.961Z - info: Using extension html-to-xlsx
+2016-01-04T13:29:10.422Z - info: Using extension authorization
+2016-01-04T13:29:10.445Z - info: Using extension child-templates
+2016-01-04T13:29:10.508Z - info: Using extension licensing
+2016-01-04T13:29:10.676Z - info: Using extension phantom-pdf
+2016-01-04T13:29:10.976Z - info: Using extension text
+2016-01-04T13:29:10.979Z - info: Using extension reports
+2016-01-04T13:29:11.002Z - info: Using extension resources
+2016-01-04T13:29:11.056Z - info: Using extension client-app
+2016-01-04T13:29:11.086Z - info: Using extension images
+2016-01-04T13:29:11.173Z - info: Using extension scheduling
+2016-01-04T13:29:11.355Z - info: Using extension scripts
+2016-01-04T13:29:11.414Z - info: Using extension statistics
+2016-01-04T13:29:11.419Z - info: Using extension sample-template
+2016-01-04T13:29:11.426Z - info: Using extension public-templates
+2016-01-04T13:29:11.485Z - info: Using extension embedding
+2016-01-04T13:29:11.630Z - info: Extensions loaded.
+2016-01-04T13:29:11.633Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T13:29:11.829Z - info: Configuring routes for existing express app.
+2016-01-04T13:29:12.450Z - info: jsreport server successfully started on https port: 443
+2016-01-04T13:29:12.452Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T13:29:12.466Z - warn: License not found, using free
+2016-01-04T13:29:12.481Z - info: reporter initialized
+2016-01-04T13:29:41.117Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T13:29:41.441Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T13:29:43.570Z - info: Found 29 extensions
+2016-01-04T13:29:43.604Z - info: Using extension test
+2016-01-04T13:29:43.610Z - info: Using extension client-html
+2016-01-04T13:29:43.676Z - info: Using extension embedded-store
+2016-01-04T13:29:43.678Z - info: Using extension xlsx
+2016-01-04T13:29:44.155Z - info: Using extension express
+2016-01-04T13:29:44.375Z - info: Using extension fop-pdf
+2016-01-04T13:29:44.453Z - info: Using extension handlebars
+2016-01-04T13:29:44.459Z - info: Using extension authentication
+2016-01-04T13:29:44.554Z - info: Using extension jsrender
+2016-01-04T13:29:44.560Z - info: Using extension templates
+2016-01-04T13:29:44.594Z - info: Using extension analytics
+2016-01-04T13:29:44.874Z - info: Using extension fs-store
+2016-01-04T13:29:45.466Z - info: Using extension data
+2016-01-04T13:29:45.489Z - info: Using extension html-to-xlsx
+2016-01-04T13:29:45.652Z - info: Using extension authorization
+2016-01-04T13:29:45.674Z - info: Using extension child-templates
+2016-01-04T13:29:45.700Z - info: Using extension licensing
+2016-01-04T13:29:45.762Z - info: Using extension phantom-pdf
+2016-01-04T13:29:45.870Z - info: Using extension text
+2016-01-04T13:29:45.873Z - info: Using extension reports
+2016-01-04T13:29:45.885Z - info: Using extension resources
+2016-01-04T13:29:45.910Z - info: Using extension client-app
+2016-01-04T13:29:45.926Z - info: Using extension images
+2016-01-04T13:29:45.960Z - info: Using extension scheduling
+2016-01-04T13:29:46.090Z - info: Using extension scripts
+2016-01-04T13:29:46.112Z - info: Using extension statistics
+2016-01-04T13:29:46.114Z - info: Using extension sample-template
+2016-01-04T13:29:46.117Z - info: Using extension public-templates
+2016-01-04T13:29:46.146Z - info: Using extension embedding
+2016-01-04T13:29:46.257Z - info: Extensions loaded.
+2016-01-04T13:29:46.261Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T13:29:46.435Z - info: Configuring routes for existing express app.
+2016-01-04T13:29:46.763Z - info: jsreport server successfully started on https port: 443
+2016-01-04T13:29:46.764Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T13:29:46.772Z - warn: License not found, using free
+2016-01-04T13:29:46.785Z - info: reporter initialized
+2016-01-04T17:22:10.094Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T17:22:10.386Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T17:22:14.192Z - info: Found 29 extensions
+2016-01-04T17:22:14.228Z - info: Using extension test
+2016-01-04T17:22:14.235Z - info: Using extension client-html
+2016-01-04T17:22:14.313Z - info: Using extension embedded-store
+2016-01-04T17:22:14.316Z - info: Using extension xlsx
+2016-01-04T17:22:14.898Z - info: Using extension express
+2016-01-04T17:22:15.152Z - info: Using extension fop-pdf
+2016-01-04T17:22:15.230Z - info: Using extension handlebars
+2016-01-04T17:22:15.236Z - info: Using extension authentication
+2016-01-04T17:22:15.338Z - info: Using extension jsrender
+2016-01-04T17:22:15.345Z - info: Using extension templates
+2016-01-04T17:22:15.376Z - info: Using extension analytics
+2016-01-04T17:22:15.711Z - info: Using extension fs-store
+2016-01-04T17:22:16.378Z - info: Using extension data
+2016-01-04T17:22:16.401Z - info: Using extension html-to-xlsx
+2016-01-04T17:22:16.587Z - info: Using extension authorization
+2016-01-04T17:22:16.602Z - info: Using extension child-templates
+2016-01-04T17:22:16.629Z - info: Using extension licensing
+2016-01-04T17:22:16.699Z - info: Using extension phantom-pdf
+2016-01-04T17:22:16.819Z - info: Using extension text
+2016-01-04T17:22:16.821Z - info: Using extension reports
+2016-01-04T17:22:16.836Z - info: Using extension resources
+2016-01-04T17:22:16.861Z - info: Using extension client-app
+2016-01-04T17:22:16.883Z - info: Using extension images
+2016-01-04T17:22:16.919Z - info: Using extension scheduling
+2016-01-04T17:22:17.060Z - info: Using extension scripts
+2016-01-04T17:22:17.086Z - info: Using extension statistics
+2016-01-04T17:22:17.088Z - info: Using extension sample-template
+2016-01-04T17:22:17.090Z - info: Using extension public-templates
+2016-01-04T17:22:17.159Z - info: Using extension embedding
+2016-01-04T17:22:17.265Z - info: Extensions loaded.
+2016-01-04T17:22:17.268Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T17:22:17.477Z - info: Configuring routes for existing express app.
+2016-01-04T17:22:17.738Z - info: jsreport server successfully started on https port: 443
+2016-01-04T17:22:17.739Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T17:22:17.766Z - warn: License not found, using free
+2016-01-04T17:22:17.779Z - info: reporter initialized
+2016-01-04T17:22:32.122Z - info: Starting rendering request 1 (user: null)
+2016-01-04T17:22:32.148Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:22:32.152Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:34:33.253Z - info: Starting rendering request 2 (user: null)
+2016-01-04T17:34:33.293Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:34:33.333Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:10.082Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T17:35:10.370Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T17:35:13.302Z - info: Found 29 extensions
+2016-01-04T17:35:13.334Z - info: Using extension test
+2016-01-04T17:35:13.340Z - info: Using extension client-html
+2016-01-04T17:35:13.409Z - info: Using extension embedded-store
+2016-01-04T17:35:13.413Z - info: Using extension xlsx
+2016-01-04T17:35:13.883Z - info: Using extension express
+2016-01-04T17:35:14.115Z - info: Using extension fop-pdf
+2016-01-04T17:35:14.201Z - info: Using extension handlebars
+2016-01-04T17:35:14.206Z - info: Using extension authentication
+2016-01-04T17:35:14.302Z - info: Using extension jsrender
+2016-01-04T17:35:14.306Z - info: Using extension templates
+2016-01-04T17:35:14.337Z - info: Using extension analytics
+2016-01-04T17:35:14.629Z - info: Using extension fs-store
+2016-01-04T17:35:15.232Z - info: Using extension data
+2016-01-04T17:35:15.255Z - info: Using extension html-to-xlsx
+2016-01-04T17:35:15.429Z - info: Using extension authorization
+2016-01-04T17:35:15.444Z - info: Using extension child-templates
+2016-01-04T17:35:15.463Z - info: Using extension licensing
+2016-01-04T17:35:15.534Z - info: Using extension phantom-pdf
+2016-01-04T17:35:15.655Z - info: Using extension text
+2016-01-04T17:35:15.658Z - info: Using extension reports
+2016-01-04T17:35:15.675Z - info: Using extension resources
+2016-01-04T17:35:15.700Z - info: Using extension client-app
+2016-01-04T17:35:15.714Z - info: Using extension images
+2016-01-04T17:35:15.747Z - info: Using extension scheduling
+2016-01-04T17:35:15.873Z - info: Using extension scripts
+2016-01-04T17:35:15.896Z - info: Using extension statistics
+2016-01-04T17:35:15.899Z - info: Using extension sample-template
+2016-01-04T17:35:15.902Z - info: Using extension public-templates
+2016-01-04T17:35:15.935Z - info: Using extension embedding
+2016-01-04T17:35:16.006Z - info: Extensions loaded.
+2016-01-04T17:35:16.010Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T17:35:16.164Z - info: Configuring routes for existing express app.
+2016-01-04T17:35:16.431Z - info: jsreport server successfully started on https port: 443
+2016-01-04T17:35:16.432Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T17:35:16.447Z - warn: License not found, using free
+2016-01-04T17:35:16.457Z - info: reporter initialized
+2016-01-04T17:35:30.648Z - info: Starting rendering request 1 (user: null)
+2016-01-04T17:35:30.677Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:30.681Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX Error: Unable to find specified template or user doesnt have permissions to read it: XXXXXXX
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:55.790Z - info: Starting rendering request 2 (user: null)
+2016-01-04T17:35:55.819Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:35:55.823Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK Error: Unable to find specified template or user doesnt have permissions to read it: g1PyBkARK
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:45:25.573Z - info: Starting rendering request 3 (user: null)
+2016-01-04T17:45:25.583Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:45:25.587Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH Error: Unable to find specified template or user doesnt have permissions to read it: 41WCRVZH
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:46:08.551Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T17:46:09.096Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T17:46:12.144Z - info: Found 29 extensions
+2016-01-04T17:46:12.186Z - info: Using extension test
+2016-01-04T17:46:12.194Z - info: Using extension client-html
+2016-01-04T17:46:12.322Z - info: Using extension embedded-store
+2016-01-04T17:46:12.324Z - info: Using extension xlsx
+2016-01-04T17:46:12.869Z - info: Using extension express
+2016-01-04T17:46:13.156Z - info: Using extension fop-pdf
+2016-01-04T17:46:13.238Z - info: Using extension handlebars
+2016-01-04T17:46:13.243Z - info: Using extension authentication
+2016-01-04T17:46:13.349Z - info: Using extension jsrender
+2016-01-04T17:46:13.353Z - info: Using extension templates
+2016-01-04T17:46:13.389Z - info: Using extension analytics
+2016-01-04T17:46:13.699Z - info: Using extension fs-store
+2016-01-04T17:46:14.427Z - info: Using extension data
+2016-01-04T17:46:14.456Z - info: Using extension html-to-xlsx
+2016-01-04T17:46:14.657Z - info: Using extension authorization
+2016-01-04T17:46:14.675Z - info: Using extension child-templates
+2016-01-04T17:46:14.697Z - info: Using extension licensing
+2016-01-04T17:46:14.762Z - info: Using extension phantom-pdf
+2016-01-04T17:46:14.881Z - info: Using extension text
+2016-01-04T17:46:14.883Z - info: Using extension reports
+2016-01-04T17:46:14.900Z - info: Using extension resources
+2016-01-04T17:46:14.925Z - info: Using extension client-app
+2016-01-04T17:46:14.937Z - info: Using extension images
+2016-01-04T17:46:14.969Z - info: Using extension scheduling
+2016-01-04T17:46:15.119Z - info: Using extension scripts
+2016-01-04T17:46:15.142Z - info: Using extension statistics
+2016-01-04T17:46:15.145Z - info: Using extension sample-template
+2016-01-04T17:46:15.148Z - info: Using extension public-templates
+2016-01-04T17:46:15.181Z - info: Using extension embedding
+2016-01-04T17:46:15.254Z - info: Extensions loaded.
+2016-01-04T17:46:15.257Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T17:46:15.418Z - info: Configuring routes for existing express app.
+2016-01-04T17:46:15.786Z - info: jsreport server successfully started on https port: 443
+2016-01-04T17:46:15.789Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T17:46:15.798Z - warn: License not found, using free
+2016-01-04T17:46:15.807Z - info: reporter initialized
+2016-01-04T17:48:13.162Z - info: Starting rendering request 1 (user: null)
+2016-01-04T17:48:13.298Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:48:13.333Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl Error: Unable to find specified template or user doesnt have permissions to read it: E1NbDrXwl
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T17:49:20.940Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T17:49:21.302Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T17:49:24.180Z - info: Found 29 extensions
+2016-01-04T17:49:24.218Z - info: Using extension test
+2016-01-04T17:49:24.227Z - info: Using extension client-html
+2016-01-04T17:49:24.293Z - info: Using extension embedded-store
+2016-01-04T17:49:24.296Z - info: Using extension xlsx
+2016-01-04T17:49:24.766Z - info: Using extension express
+2016-01-04T17:49:24.980Z - info: Using extension fop-pdf
+2016-01-04T17:49:25.069Z - info: Using extension handlebars
+2016-01-04T17:49:25.074Z - info: Using extension authentication
+2016-01-04T17:49:25.161Z - info: Using extension jsrender
+2016-01-04T17:49:25.166Z - info: Using extension templates
+2016-01-04T17:49:25.199Z - info: Using extension analytics
+2016-01-04T17:49:25.486Z - info: Using extension fs-store
+2016-01-04T17:49:26.109Z - info: Using extension data
+2016-01-04T17:49:26.132Z - info: Using extension html-to-xlsx
+2016-01-04T17:49:26.313Z - info: Using extension authorization
+2016-01-04T17:49:26.326Z - info: Using extension child-templates
+2016-01-04T17:49:26.351Z - info: Using extension licensing
+2016-01-04T17:49:26.417Z - info: Using extension phantom-pdf
+2016-01-04T17:49:26.529Z - info: Using extension text
+2016-01-04T17:49:26.532Z - info: Using extension reports
+2016-01-04T17:49:26.546Z - info: Using extension resources
+2016-01-04T17:49:26.569Z - info: Using extension client-app
+2016-01-04T17:49:26.584Z - info: Using extension images
+2016-01-04T17:49:26.616Z - info: Using extension scheduling
+2016-01-04T17:49:26.756Z - info: Using extension scripts
+2016-01-04T17:49:26.786Z - info: Using extension statistics
+2016-01-04T17:49:26.789Z - info: Using extension sample-template
+2016-01-04T17:49:26.791Z - info: Using extension public-templates
+2016-01-04T17:49:26.824Z - info: Using extension embedding
+2016-01-04T17:49:26.888Z - info: Extensions loaded.
+2016-01-04T17:49:26.893Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T17:49:27.062Z - info: Configuring routes for existing express app.
+2016-01-04T17:49:27.307Z - info: jsreport server successfully started on https port: 443
+2016-01-04T17:49:27.308Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T17:49:27.324Z - warn: License not found, using free
+2016-01-04T17:49:27.335Z - info: reporter initialized
+2016-01-04T17:49:30.312Z - info: Starting rendering request 1 (user: null)
+2016-01-04T17:49:30.348Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T17:49:31.924Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T17:49:35.527Z - info: Rendering request 1 finished in 5218 ms
+2016-01-04T17:51:45.030Z - info: Starting rendering request 2 (user: null)
+2016-01-04T17:51:45.065Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T17:51:47.358Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T17:51:50.077Z - info: Rendering request 2 finished in 5057 ms
+2016-01-04T17:52:05.048Z - info: Starting rendering request 3 (user: null)
+2016-01-04T17:52:05.083Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T17:52:07.434Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T17:52:11.601Z - info: Rendering request 3 finished in 6552 ms
+2016-01-04T17:56:04.175Z - info: Starting rendering request 4 (user: null)
+2016-01-04T17:56:04.194Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T17:56:05.441Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T17:56:07.950Z - info: Rendering request 4 finished in 3775 ms
+2016-01-04T17:56:59.871Z - info: Starting rendering request 5 (user: null)
+2016-01-04T17:56:59.901Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T17:57:02.315Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T17:57:05.300Z - info: Rendering request 5 finished in 5456 ms
+2016-01-04T18:00:10.201Z - info: Starting rendering request 6 (user: null)
+2016-01-04T18:00:10.227Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:00:11.558Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:00:14.711Z - info: Rendering request 6 finished in 4531 ms
+2016-01-04T18:00:27.593Z - info: Starting rendering request 7 (user: null)
+2016-01-04T18:00:27.630Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:00:29.258Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:00:32.004Z - info: Rendering request 7 finished in 4411 ms
+2016-01-04T18:01:13.191Z - info: Starting rendering request 8 (user: null)
+2016-01-04T18:01:13.208Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:01:14.031Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:01:17.552Z - info: Rendering request 8 finished in 4350 ms
+2016-01-04T18:02:33.354Z - info: Starting rendering request 9 (user: null)
+2016-01-04T18:02:33.365Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:02:34.154Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:02:37.685Z - info: Rendering request 9 finished in 4305 ms
+2016-01-04T18:03:14.129Z - info: Starting rendering request 10 (user: null)
+2016-01-04T18:03:14.154Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:03:15.266Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:03:19.040Z - info: Rendering request 10 finished in 4912 ms
+2016-01-04T18:07:18.165Z - info: Starting rendering request 11 (user: null)
+2016-01-04T18:07:18.214Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:07:20.284Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:07:23.815Z - info: Rendering request 11 finished in 5666 ms
+2016-01-04T18:08:47.642Z - info: Starting rendering request 12 (user: null)
+2016-01-04T18:08:47.696Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:08:49.890Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:08:53.708Z - info: Rendering request 12 finished in 6016 ms
+2016-01-04T18:09:26.116Z - info: Starting rendering request 13 (user: null)
+2016-01-04T18:09:26.153Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:09:28.900Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:handlebars}
+2016-01-04T18:09:32.415Z - info: Rendering request 13 finished in 6293 ms
+2016-01-04T18:13:29.459Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:13:29.762Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:13:32.948Z - info: Found 29 extensions
+2016-01-04T18:13:32.991Z - info: Using extension test
+2016-01-04T18:13:33.000Z - info: Using extension client-html
+2016-01-04T18:13:33.081Z - info: Using extension embedded-store
+2016-01-04T18:13:33.083Z - info: Using extension xlsx
+2016-01-04T18:13:33.592Z - info: Using extension express
+2016-01-04T18:13:33.836Z - info: Using extension fop-pdf
+2016-01-04T18:13:33.917Z - info: Using extension handlebars
+2016-01-04T18:13:33.923Z - info: Using extension authentication
+2016-01-04T18:13:34.037Z - info: Using extension jsrender
+2016-01-04T18:13:34.042Z - info: Using extension templates
+2016-01-04T18:13:34.079Z - info: Using extension analytics
+2016-01-04T18:13:34.372Z - info: Using extension fs-store
+2016-01-04T18:13:35.047Z - info: Using extension data
+2016-01-04T18:13:35.070Z - info: Using extension html-to-xlsx
+2016-01-04T18:13:35.254Z - info: Using extension authorization
+2016-01-04T18:13:35.269Z - info: Using extension child-templates
+2016-01-04T18:13:35.289Z - info: Using extension licensing
+2016-01-04T18:13:35.369Z - info: Using extension phantom-pdf
+2016-01-04T18:13:35.502Z - info: Using extension text
+2016-01-04T18:13:35.504Z - info: Using extension reports
+2016-01-04T18:13:35.523Z - info: Using extension resources
+2016-01-04T18:13:35.550Z - info: Using extension client-app
+2016-01-04T18:13:35.564Z - info: Using extension images
+2016-01-04T18:13:35.597Z - info: Using extension scheduling
+2016-01-04T18:13:35.748Z - info: Using extension scripts
+2016-01-04T18:13:35.776Z - info: Using extension statistics
+2016-01-04T18:13:35.788Z - info: Using extension sample-template
+2016-01-04T18:13:35.791Z - info: Using extension public-templates
+2016-01-04T18:13:35.836Z - info: Using extension embedding
+2016-01-04T18:13:35.912Z - info: Extensions loaded.
+2016-01-04T18:13:35.916Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:13:36.068Z - error: Failed to load collection templates message=Can't insert key msvl9jG1kvCeYKWR, it violates the unique constraint, key=msvl9jG1kvCeYKWR, errorType=uniqueViolated
+2016-01-04T18:13:36.070Z - error: Error occured during reporter init undefined
+2016-01-04T18:13:36.070Z - error: Error occured during reporter init undefined
+2016-01-04T18:17:08.756Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:17:09.187Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:17:13.806Z - info: Found 29 extensions
+2016-01-04T18:17:13.874Z - info: Using extension test
+2016-01-04T18:17:13.884Z - info: Using extension client-html
+2016-01-04T18:17:13.984Z - info: Using extension embedded-store
+2016-01-04T18:17:13.988Z - info: Using extension xlsx
+2016-01-04T18:17:14.712Z - info: Using extension express
+2016-01-04T18:17:15.084Z - info: Using extension fop-pdf
+2016-01-04T18:17:15.194Z - info: Using extension handlebars
+2016-01-04T18:17:15.199Z - info: Using extension authentication
+2016-01-04T18:17:15.327Z - info: Using extension jsrender
+2016-01-04T18:17:15.332Z - info: Using extension templates
+2016-01-04T18:17:15.383Z - info: Using extension analytics
+2016-01-04T18:17:15.792Z - info: Using extension fs-store
+2016-01-04T18:17:16.710Z - info: Using extension data
+2016-01-04T18:17:16.771Z - info: Using extension html-to-xlsx
+2016-01-04T18:17:17.053Z - info: Using extension authorization
+2016-01-04T18:17:17.081Z - info: Using extension child-templates
+2016-01-04T18:17:17.113Z - info: Using extension licensing
+2016-01-04T18:17:17.208Z - info: Using extension phantom-pdf
+2016-01-04T18:17:17.367Z - info: Using extension text
+2016-01-04T18:17:17.371Z - info: Using extension reports
+2016-01-04T18:17:17.393Z - info: Using extension resources
+2016-01-04T18:17:17.426Z - info: Using extension client-app
+2016-01-04T18:17:17.448Z - info: Using extension images
+2016-01-04T18:17:17.491Z - info: Using extension scheduling
+2016-01-04T18:17:17.664Z - info: Using extension scripts
+2016-01-04T18:17:17.710Z - info: Using extension statistics
+2016-01-04T18:17:17.713Z - info: Using extension sample-template
+2016-01-04T18:17:17.717Z - info: Using extension public-templates
+2016-01-04T18:17:17.761Z - info: Using extension embedding
+2016-01-04T18:17:17.869Z - info: Extensions loaded.
+2016-01-04T18:17:17.875Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:17:18.071Z - error: Failed to load collection templates Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+2016-01-04T18:17:18.077Z - error: Error occured during reporter init Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:18.078Z - error: Error occured during reporter init Error: Multiple files found for entry D:\JSReports\data\templates\Sample report\content
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:275:21
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:133:7)
+    at emitOne (events.js:77:13)
+    at Glob.emit (events.js:169:7)
+    at Glob._finish (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:172:8)
+    at done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:159:12)
+    at Glob._processReaddir2 (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:409:12)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:346:17
+    at RES (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\inflight\inflight.js:23:14)
+    at f (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\node_modules\once\once.js:17:25)
+    at Glob._readdirEntries (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:550:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\glob\glob.js:527:12
+    at FSReqWrap.oncomplete (fs.js:82:15)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:48.247Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:17:48.666Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:17:53.095Z - info: Found 29 extensions
+2016-01-04T18:17:53.153Z - info: Using extension test
+2016-01-04T18:17:53.166Z - info: Using extension client-html
+2016-01-04T18:17:53.277Z - info: Using extension embedded-store
+2016-01-04T18:17:53.281Z - info: Using extension xlsx
+2016-01-04T18:17:54.041Z - info: Using extension express
+2016-01-04T18:17:54.350Z - info: Using extension fop-pdf
+2016-01-04T18:17:54.468Z - info: Using extension handlebars
+2016-01-04T18:17:54.476Z - info: Using extension authentication
+2016-01-04T18:17:54.607Z - info: Using extension jsrender
+2016-01-04T18:17:54.613Z - info: Using extension templates
+2016-01-04T18:17:54.662Z - info: Using extension analytics
+2016-01-04T18:17:55.117Z - info: Using extension fs-store
+2016-01-04T18:17:56.021Z - info: Using extension data
+2016-01-04T18:17:56.059Z - info: Using extension html-to-xlsx
+2016-01-04T18:17:56.330Z - info: Using extension authorization
+2016-01-04T18:17:56.351Z - info: Using extension child-templates
+2016-01-04T18:17:56.397Z - info: Using extension licensing
+2016-01-04T18:17:56.487Z - info: Using extension phantom-pdf
+2016-01-04T18:17:56.648Z - info: Using extension text
+2016-01-04T18:17:56.652Z - info: Using extension reports
+2016-01-04T18:17:56.678Z - info: Using extension resources
+2016-01-04T18:17:56.714Z - info: Using extension client-app
+2016-01-04T18:17:56.731Z - info: Using extension images
+2016-01-04T18:17:56.785Z - info: Using extension scheduling
+2016-01-04T18:17:56.983Z - info: Using extension scripts
+2016-01-04T18:17:57.017Z - info: Using extension statistics
+2016-01-04T18:17:57.020Z - info: Using extension sample-template
+2016-01-04T18:17:57.024Z - info: Using extension public-templates
+2016-01-04T18:17:57.073Z - info: Using extension embedding
+2016-01-04T18:17:57.186Z - info: Extensions loaded.
+2016-01-04T18:17:57.193Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:17:57.334Z - error: Failed to load collection templates Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+2016-01-04T18:17:57.337Z - error: Error occured during reporter init Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:17:57.338Z - error: Error occured during reporter init Error: Unable to read config.json, you are likely trying to use fs jsreport store provider on the data set created with nedb provider. Please switch connection string name to nedb. 
+Error: ENOENT: no such file or directory, open 'D:\JSReports\data\templates\content.handlebars1\config.json'
+    at ReadFileContext.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\lib\persistence.js:257:17)
+    at ReadFileContext.callback (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\fs-extra\node_modules\graceful-fs\graceful-fs.js:76:16)
+    at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
+From previous event:
+    at Reporter._init (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:106:6)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:57:17
+2016-01-04T18:18:51.042Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:18:51.373Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:18:54.536Z - info: Found 29 extensions
+2016-01-04T18:18:54.575Z - info: Using extension test
+2016-01-04T18:18:54.584Z - info: Using extension client-html
+2016-01-04T18:18:54.655Z - info: Using extension embedded-store
+2016-01-04T18:18:54.657Z - info: Using extension xlsx
+2016-01-04T18:18:55.156Z - info: Using extension express
+2016-01-04T18:18:55.364Z - info: Using extension fop-pdf
+2016-01-04T18:18:55.440Z - info: Using extension handlebars
+2016-01-04T18:18:55.445Z - info: Using extension authentication
+2016-01-04T18:18:55.536Z - info: Using extension jsrender
+2016-01-04T18:18:55.539Z - info: Using extension templates
+2016-01-04T18:18:55.574Z - info: Using extension analytics
+2016-01-04T18:18:55.852Z - info: Using extension fs-store
+2016-01-04T18:18:56.453Z - info: Using extension data
+2016-01-04T18:18:56.475Z - info: Using extension html-to-xlsx
+2016-01-04T18:18:56.652Z - info: Using extension authorization
+2016-01-04T18:18:56.669Z - info: Using extension child-templates
+2016-01-04T18:18:56.694Z - info: Using extension licensing
+2016-01-04T18:18:56.750Z - info: Using extension phantom-pdf
+2016-01-04T18:18:56.865Z - info: Using extension text
+2016-01-04T18:18:56.867Z - info: Using extension reports
+2016-01-04T18:18:56.883Z - info: Using extension resources
+2016-01-04T18:18:56.908Z - info: Using extension client-app
+2016-01-04T18:18:56.923Z - info: Using extension images
+2016-01-04T18:18:56.956Z - info: Using extension scheduling
+2016-01-04T18:18:57.095Z - info: Using extension scripts
+2016-01-04T18:18:57.123Z - info: Using extension statistics
+2016-01-04T18:18:57.127Z - info: Using extension sample-template
+2016-01-04T18:18:57.130Z - info: Using extension public-templates
+2016-01-04T18:18:57.163Z - info: Using extension embedding
+2016-01-04T18:18:57.225Z - info: Extensions loaded.
+2016-01-04T18:18:57.229Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:18:57.398Z - info: Configuring routes for existing express app.
+2016-01-04T18:18:57.646Z - info: jsreport server successfully started on https port: 443
+2016-01-04T18:18:57.646Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T18:18:57.653Z - warn: License not found, using free
+2016-01-04T18:18:57.674Z - info: reporter initialized
+2016-01-04T18:19:13.996Z - info: Starting rendering request 1 (user: null)
+2016-01-04T18:19:14.137Z - error: Error when processing render request Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T18:19:14.166Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13) Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai Error: Unable to find specified template or user doesnt have permissions to read it: BanglaNai
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:68:13
+    at _fulfilled (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:794:54)
+    at self.promiseDispatch.done (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:823:30)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:756:13)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-templates\lib\templates.js:76:11
+    at _rejected (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:804:24)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:830:30
+    at Promise.when (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:1064:31)
+    at Promise.promise.promiseDispatch (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:748:41)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:564:44
+    at flush (D:\JSReports\node_modules\jsreport\node_modules\jsreport-fs-store\node_modules\listener-collection\node_modules\q\q.js:110:17)
+From previous event:
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:173:26
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\listener-collection\lib\listenerCollection.js:151:24
+2016-01-04T18:20:01.950Z - info: Starting rendering request 2 (user: null)
+2016-01-04T18:20:01.960Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:handlebars}
+2016-01-04T18:20:02.664Z - error: Error when processing render request Error during rendering report: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID' Error: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:20:02.665Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID' Error: Parse error on line 55:
+...   var data =  {{:~toJSON(#data)}}; 
+----------------------^
+Expecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:32:25.562Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:32:25.886Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:32:29.260Z - info: Found 29 extensions
+2016-01-04T18:32:29.300Z - info: Using extension test
+2016-01-04T18:32:29.307Z - info: Using extension client-html
+2016-01-04T18:32:29.390Z - info: Using extension embedded-store
+2016-01-04T18:32:29.395Z - info: Using extension xlsx
+2016-01-04T18:32:29.928Z - info: Using extension express
+2016-01-04T18:32:30.207Z - info: Using extension fop-pdf
+2016-01-04T18:32:30.314Z - info: Using extension handlebars
+2016-01-04T18:32:30.321Z - info: Using extension authentication
+2016-01-04T18:32:30.431Z - info: Using extension jsrender
+2016-01-04T18:32:30.437Z - info: Using extension templates
+2016-01-04T18:32:30.476Z - info: Using extension analytics
+2016-01-04T18:32:30.869Z - info: Using extension fs-store
+2016-01-04T18:32:31.632Z - info: Using extension data
+2016-01-04T18:32:31.660Z - info: Using extension html-to-xlsx
+2016-01-04T18:32:31.892Z - info: Using extension authorization
+2016-01-04T18:32:31.912Z - info: Using extension child-templates
+2016-01-04T18:32:31.942Z - info: Using extension licensing
+2016-01-04T18:32:32.025Z - info: Using extension phantom-pdf
+2016-01-04T18:32:32.165Z - info: Using extension text
+2016-01-04T18:32:32.168Z - info: Using extension reports
+2016-01-04T18:32:32.197Z - info: Using extension resources
+2016-01-04T18:32:32.231Z - info: Using extension client-app
+2016-01-04T18:32:32.272Z - info: Using extension images
+2016-01-04T18:32:32.319Z - info: Using extension scheduling
+2016-01-04T18:32:32.477Z - info: Using extension scripts
+2016-01-04T18:32:32.507Z - info: Using extension statistics
+2016-01-04T18:32:32.510Z - info: Using extension sample-template
+2016-01-04T18:32:32.514Z - info: Using extension public-templates
+2016-01-04T18:32:32.556Z - info: Using extension embedding
+2016-01-04T18:32:32.639Z - info: Extensions loaded.
+2016-01-04T18:32:32.647Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:32:32.891Z - info: Configuring routes for existing express app.
+2016-01-04T18:32:33.193Z - info: jsreport server successfully started on https port: 443
+2016-01-04T18:32:33.194Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T18:32:33.216Z - warn: License not found, using free
+2016-01-04T18:32:33.228Z - info: reporter initialized
+2016-01-04T18:32:48.954Z - info: Starting rendering request 1 (user: null)
+2016-01-04T18:32:48.969Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:jsrender}
+2016-01-04T18:32:49.695Z - error: Error when processing render request Error during rendering report: view.hlp(...) is not a function Error: view.hlp(...) is not a function
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:32:49.697Z - error: Error during processing request: http://localhost:3000/reporting/api/report details: Error during rendering report: view.hlp(...) is not a function Error: view.hlp(...) is not a function
+    at ChildProcess.<anonymous> (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\node_modules\toner\node_modules\script-manager\lib\manager-processes.js:38:23)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+From previous event:
+    at Reporter.render (D:\JSReports\node_modules\jsreport\node_modules\jsreport-core\lib\reporter.js:185:51)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:139:14
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\JSReports\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\JSReports\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at D:\JSReports\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\JSReports\node_modules\express\lib\router\index.js:271:10)
+    at D:\JSReports\node_modules\jsreport\node_modules\jsreport-express\lib\routes.js:54:5
+    at Layer.handle [as handle_request] (D:\JSReports\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\JSReports\node_modules\express\lib\router\index.js:312:13)
+    at D:\JSReports\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (D:\JSReports\node_modules\express\lib\router\index.js:330:12)
+2016-01-04T18:46:13.949Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2016-01-04T18:46:14.280Z - info: Searching for available extensions in D:\JSReports\
+2016-01-04T18:46:17.628Z - info: Found 29 extensions
+2016-01-04T18:46:17.675Z - info: Using extension test
+2016-01-04T18:46:17.682Z - info: Using extension client-html
+2016-01-04T18:46:17.763Z - info: Using extension embedded-store
+2016-01-04T18:46:17.766Z - info: Using extension xlsx
+2016-01-04T18:46:18.293Z - info: Using extension express
+2016-01-04T18:46:18.619Z - info: Using extension fop-pdf
+2016-01-04T18:46:18.719Z - info: Using extension handlebars
+2016-01-04T18:46:18.727Z - info: Using extension authentication
+2016-01-04T18:46:18.841Z - info: Using extension jsrender
+2016-01-04T18:46:18.846Z - info: Using extension templates
+2016-01-04T18:46:18.884Z - info: Using extension analytics
+2016-01-04T18:46:19.205Z - info: Using extension fs-store
+2016-01-04T18:46:19.986Z - info: Using extension data
+2016-01-04T18:46:20.016Z - info: Using extension html-to-xlsx
+2016-01-04T18:46:20.217Z - info: Using extension authorization
+2016-01-04T18:46:20.232Z - info: Using extension child-templates
+2016-01-04T18:46:20.256Z - info: Using extension licensing
+2016-01-04T18:46:20.360Z - info: Using extension phantom-pdf
+2016-01-04T18:46:20.505Z - info: Using extension text
+2016-01-04T18:46:20.507Z - info: Using extension reports
+2016-01-04T18:46:20.525Z - info: Using extension resources
+2016-01-04T18:46:20.551Z - info: Using extension client-app
+2016-01-04T18:46:20.565Z - info: Using extension images
+2016-01-04T18:46:20.604Z - info: Using extension scheduling
+2016-01-04T18:46:20.750Z - info: Using extension scripts
+2016-01-04T18:46:20.774Z - info: Using extension statistics
+2016-01-04T18:46:20.776Z - info: Using extension sample-template
+2016-01-04T18:46:20.779Z - info: Using extension public-templates
+2016-01-04T18:46:20.811Z - info: Using extension embedding
+2016-01-04T18:46:20.884Z - info: Extensions loaded.
+2016-01-04T18:46:20.888Z - info: Initializing fs storage at D:\JSReports\data
+2016-01-04T18:46:21.095Z - info: Configuring routes for existing express app.
+2016-01-04T18:46:21.374Z - info: jsreport server successfully started on https port: 443
+2016-01-04T18:46:21.375Z - warn: jsreport-fs-store needs a valid server instance to initialize socket link with the studio if you are using jsreport in an existing express app pass a server instance to express.server option
+2016-01-04T18:46:21.383Z - warn: License not found, using free
+2016-01-04T18:46:21.397Z - info: reporter initialized
+2016-01-04T18:46:28.604Z - info: Starting rendering request 1 (user: null)
+2016-01-04T18:46:28.621Z - info: Rendering template {shortid:EyNbwrXvx, recipe:phantom-pdf,engine:jsrender}
+2016-01-04T18:46:29.269Z - info: Rendering template {shortid:EyNbwrXvx, recipe:html,engine:jsrender}
+2016-01-04T18:46:31.967Z - info: Rendering request 1 finished in 3362 ms
